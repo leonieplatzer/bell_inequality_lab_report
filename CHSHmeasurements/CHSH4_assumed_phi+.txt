@@ -1,0 +1,24 @@
+=================================
+# quCR CHSH Measurement Protocol 
+=================================
+#    Integration Time: 1000 ms
+#    CHSH Result:      2.577
+#    CHSH Error:       0.020
+#    no of Stdev:       28
+#      polarizer positions         rate corr. for accidential coincidences
+       X =   0.0 deg,  Y =  22.5 deg   rate1 =   54684   rate2 =   64293 coincidences =    3545 corrected =    3474
+       X =   0.0 deg,  Y =  67.5 deg   rate1 =   54814   rate2 =   42614 coincidences =     834 corrected =     787
+       X =   0.0 deg,  Y = 112.5 deg   rate1 =   54929   rate2 =   39435 coincidences =     531 corrected =     487
+       X =   0.0 deg,  Y = 157.5 deg   rate1 =   54463   rate2 =   61686 coincidences =    3337 corrected =    3269
+       X =  45.0 deg,  Y =  22.5 deg   rate1 =   45847   rate2 =   64461 coincidences =    2795 corrected =    2735
+       X =  45.0 deg,  Y =  67.5 deg   rate1 =   46166   rate2 =   42637 coincidences =    2094 corrected =    2054
+       X =  45.0 deg,  Y = 112.5 deg   rate1 =   45975   rate2 =   39449 coincidences =     256 corrected =     219
+       X =  45.0 deg,  Y = 157.5 deg   rate1 =   45700   rate2 =   61542 coincidences =     962 corrected =     905
+       X =  90.0 deg,  Y =  22.5 deg   rate1 =   35132   rate2 =   64778 coincidences =     263 corrected =     217
+       X =  90.0 deg,  Y =  67.5 deg   rate1 =   35285   rate2 =   42296 coincidences =    1410 corrected =    1380
+       X =  90.0 deg,  Y = 112.5 deg   rate1 =   35259   rate2 =   39627 coincidences =    1489 corrected =    1461
+       X =  90.0 deg,  Y = 157.5 deg   rate1 =   35311   rate2 =   61149 coincidences =     348 corrected =     304
+       X = 135.0 deg,  Y =  22.5 deg   rate1 =   44007   rate2 =   64777 coincidences =    1119 corrected =    1061
+       X = 135.0 deg,  Y =  67.5 deg   rate1 =   44696   rate2 =   42463 coincidences =     123 corrected =      85
+       X = 135.0 deg,  Y = 112.5 deg   rate1 =   44432   rate2 =   39613 coincidences =    1784 corrected =    1748
+       X = 135.0 deg,  Y = 157.5 deg   rate1 =   44111   rate2 =   61541 coincidences =    2699 corrected =    2644
